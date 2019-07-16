@@ -45,7 +45,7 @@ public class Plugin extends ActlistPlugin {
 		super("Meeting Timer");
 		
 		setPluginVersion("1.0.0");
-		setPluginAuthor("silentsoft.org", URI.create("https://github.com/silentsoft/actlist-plugin-meeting-timer"));
+		setPluginAuthor("silentsoft.org", URI.create("https://github.com/silentsoft/actlist-meeting-timer-plugin"));
 		setPluginUpdateCheckURI(URI.create("http://actlist.silentsoft.org/api/plugin/54671b40/update/check"));
 		
 		setMinimumCompatibleVersion(1, 2, 10);
